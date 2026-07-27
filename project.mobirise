@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2196,7 +2196,7 @@
     "page3.html": {
       "settings": {
         "title": "siren-characterization",
-        "meta_descr": "How to collect outdoor noise data",
+        "meta_descr": "Learn how Acoustic Analytics measures siren source levels using the ANSI S12.14 protocol, both near-field and far-field.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4507,7 +4507,7 @@
     "page6.html": {
       "settings": {
         "title": "industrial_noise",
-        "meta_descr": "How to collect outdoor noise data",
+        "meta_descr": "Field measurements of industrial noise environments to support OSHA compliance and protect employee hearing.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
