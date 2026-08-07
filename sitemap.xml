@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/index.html</loc>
+    <loc>https://acousticanalytics.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/services.html</loc>
+    <loc>https://acousticanalytics.com/services.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/modeling.html</loc>
+    <loc>https://acousticanalytics.com/modeling.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/background-noise-measurements.html</loc>
+    <loc>https://acousticanalytics.com/background-noise-measurements.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/documents.html</loc>
+    <loc>https://acousticanalytics.com/documents.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/about.html</loc>
+    <loc>https://acousticanalytics.com/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/contact.html</loc>
+    <loc>https://acousticanalytics.com/contact.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/siren-characterization.html</loc>
+    <loc>https://acousticanalytics.com/siren-characterization.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/industrial-noise.html</loc>
+    <loc>https://acousticanalytics.com/industrial-noise.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/spherical-spreading.html</loc>
+    <loc>https://acousticanalytics.com/spherical-spreading.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/atmospheric-absorption.html</loc>
+    <loc>https://acousticanalytics.com/atmospheric-absorption.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/ground-reflection.html</loc>
+    <loc>https://acousticanalytics.com/ground-reflection.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/diffraction.html</loc>
+    <loc>https://acousticanalytics.com/diffraction.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mountainike.github.io/AcousticAnalytics/refraction.html</loc>
+    <loc>https://acousticanalytics.com/refraction.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
